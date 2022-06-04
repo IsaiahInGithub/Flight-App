@@ -1,0 +1,19 @@
+body {
+    background-color: dodgerblue;
+    overflow: hidden;
+}
+
+.runway {
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    height: 15px;
+    width: 3px;
+    background-color: grey;
+    border: 50px solid green;
+}
+
+i {
+    position: absolute;
+    font-size: x-large;
+}
